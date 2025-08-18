@@ -46,5 +46,14 @@ cd Team-Task-Board-Backend
 
 mvn spring-boot:run
 
-
 4.Backend will start at: http://localhost:8080
+
+✅ Current Project Status
+
+✅ Backend with database integration completed
+
+✅ Tested APIs using Postman
+
+⚠️ Frontend (Angular) work started but faced version compatibility issues
+
+❌ Frontend not fully functional yet (needs fixes for dependency versions
