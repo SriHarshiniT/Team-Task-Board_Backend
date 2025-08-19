@@ -56,4 +56,4 @@ mvn spring-boot:run
 
 ⚠️ Frontend (Angular) work started but faced version compatibility issues
 
-❌ Frontend not fully functional yet (needs fixes for dependency versions
+❌ Frontend not fully functional yet (needs fixes for dependency versions)
